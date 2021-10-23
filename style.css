@@ -1,0 +1,88 @@
+body{
+				margin:0%;
+				padding: 0%;
+				border:0%;
+				font-family: Impact, Didot, helvatica;
+}
+.tituloPrincipal{
+				color: #3399cc;
+				margin-top: -10px;
+				text-decoration:none;
+}
+#foto{
+				width: 50px;
+				height: 50px;
+				float: left;
+				border: solid 1px #3399cc;
+				margin-right: 2%;
+				
+}
+.container{
+				width: 100%;
+}
+.cabecario{
+				width: 100%;
+				height: 100px;
+				background-color: #b3b3b6;
+				padding: 2%;
+}
+
+.pagina{
+				color:white;
+				background-color: #c3c3c3;
+				width: 100%;
+}
+.pagina ul{
+				margin:0%;
+				margin-top: 5%;
+				padding: 0%;
+}
+.pagina li{
+    border:solid 2px #3399cc;
+    list-style: none;
+    text-decoration:none;
+    padding: 10%;
+    text-align: center;
+}
+.menupagina{
+				color:#3399cc;
+				background-color: #c3c3c3;
+				width: 30%;
+}
+.menupagina ul{
+				padding:0%;
+}
+.menupagina li{
+    border:solid 2px #3399cc;
+    list-style: none;
+    text-decoration:none;
+ 		 padding: 3%;
+  		text-align: center;
+  		width: 100%;
+}
+
+.conteudo{
+    margin-top: -175pt;
+				width: 70%;
+				float: right;
+				display: flex;
+				background-color: #c3c3c3;
+				flex-direction: column;
+				text-align: center;
+				color:#3399cc;
+}
+.conteudo ul{
+				padding: 0%;
+				margin:0%;
+				list-style: none;
+				width: 60%;
+				
+}
+.conteudo ul li{
+				text-decoration: none;
+				text-align: center;
+				padding: 20%;
+				margin-left:50pt;
+				border: solid 5px #3399cc;
+				width: 100%;
+}
